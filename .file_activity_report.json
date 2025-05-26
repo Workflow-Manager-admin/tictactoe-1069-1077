@@ -1,0 +1,54 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/package.json",
+            "count": 40
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/index.js",
+            "count": 2
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/App.js",
+            "count": 2
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/public/index.html",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/index.css",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/App.css",
+            "count": 1
+        }
+    ],
+    "top_n_last_10_min_accessed": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/package.json",
+            "count": 40
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/index.js",
+            "count": 2
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/App.js",
+            "count": 2
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/public/index.html",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/index.css",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-1069-1077/main_container_tictactoe/src/App.css",
+            "count": 1
+        }
+    ]
+}
