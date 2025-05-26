@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import TicTacToe from './components/TicTacToe/TicTacToe';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
             <div className="logo">
               <span className="logo-symbol">*</span> KAVIA AI
             </div>
-            <button className="btn">Template Button</button>
+            <a href="https://github.com/kavia-ai" className="btn" target="_blank" rel="noopener noreferrer">GitHub</a>
           </div>
         </div>
       </nav>
@@ -18,15 +19,13 @@ function App() {
       <main>
         <div className="container">
           <div className="hero">
-            <div className="subtitle">AI Workflow Manager Template</div>
+            <div className="subtitle">React Game Implementation</div>
             
-            <h1 className="title">main_container_tictactoe</h1>
+            <TicTacToe />
             
             <div className="description">
-              Start building your application.
+              A classic two-player game where players take turns marking spaces in a 3x3 grid.
             </div>
-            
-            <button className="btn btn-large">Button</button>
           </div>
         </div>
       </main>
